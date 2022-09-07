@@ -13,4 +13,6 @@ ___
 
 3. Классический GPS маршрут с выбором передвижения - на машине или пешком. Если изначальная локация не была указана пользователем приложение будет прокладывать маршрут от координат самого пользователя.
 
+![GPS](https://github.com/amazingdiko/GPS/blob/master/gps_1.gif)
+
 ![GPS_with_adress](https://github.com/amazingdiko/GPS/blob/master/gps.gif)
